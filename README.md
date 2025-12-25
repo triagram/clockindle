@@ -1,3 +1,8 @@
+## 自建自部署
+
+Forked from https://github.com/1pone/clockindle 
+Deployed by github.io
+
 ## Clockindle
 
 > 你的 Kindle 还好么？是否还藏在角落吃灰呢？赶紧拿出来擦一擦，与其闲置着不如让它成为一台墨水屏时钟，既实用又有格调。当然，它能做的远不止一台时钟...
